@@ -10,6 +10,7 @@ lerna-debug.log*
 *__pycache__
 *node_modules
 *myenv
+*.env
 
 # Editor directories and files
 .vscode/*
